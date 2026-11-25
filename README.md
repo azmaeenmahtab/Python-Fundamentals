@@ -24,7 +24,7 @@ Implemented -
 9. Count the number of digits in a given number. 
 10. Create a simple login system using predefined credentials. 
 
-# Mini Assignment 
+#### Mini Assignment 
 Built a console-based calculator that supports: 
 ● Addition 
 ● Subtraction 
