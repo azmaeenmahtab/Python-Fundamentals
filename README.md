@@ -1,8 +1,7 @@
-### Python Fundamentals - Task Tracker
+## Python Fundamentals - Task Tracker
 
-## DAY_01.py
-Consists Day 1 Python Fundamentals Learning Tasks. 
-Implemented - 
+### DAY_01.py
+Consists Day 1 Python Fundamentals Learning Tasks. Implemented - 
 1. Take a user's name and age and display them. 
 2. Perform addition, subtraction, multiplication, and division on two numbers. 
 3. Convert Celsius temperature to Fahrenheit. 
