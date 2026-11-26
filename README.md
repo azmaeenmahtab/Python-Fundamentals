@@ -1,4 +1,4 @@
-## Python Fundamentals - Task Tracker
+## Python Fundamentals Learning Task Tracker
 
 ### DAY_01.py - Completed
 Implemented - 
@@ -30,3 +30,6 @@ Built a console-based calculator that supports:
 ● Subtraction 
 ● Multiplication 
 ● Division  
+
+
+### Day 3 — Data Structures and String Handling - Started
