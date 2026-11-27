@@ -1,7 +1,7 @@
 ## Python Fundamentals Learning Task Tracker
 
 ### Day 1 — Python Basics and Data Types - Completed - 11/24/2026 (day_01.py)
-Implemented - 
+#### Implemented - 
 1. Take a user's name and age and display them. 
 2. Perform addition, subtraction, multiplication, and division on two numbers. 
 3. Convert Celsius temperature to Fahrenheit. 
@@ -12,7 +12,7 @@ Implemented -
 
 
 ### Day 2 — Conditional Statements and Loops - Completed - 11/25/2026 (day_02.py)
-Implemented - 
+#### Implemented - 
 1. Check whether a number is positive, negative, or zero. 
 2. Find the largest among three numbers. 
 3. Calculate grades based on marks. 
@@ -33,13 +33,13 @@ Built a console-based calculator that supports:
 
 
 ### Day 3 — Data Structures and String Handling - Completed - 11/26/2026 (day_03.py)
-Learned -
+#### Learned -
 1. List
 2. Tuple
 3. Dictionary
 4. String Manipulation
 
-Implemented - 
+#### Implemented - 
 1. Find the largest and smallest number in a list. 
 2. Remove duplicate values from a list. 
 3. Calculate the sum of all numbers in a list. 
@@ -50,3 +50,23 @@ Implemented -
 8. Search for a specific item in a list. 
 9. Count the frequency of words in a sentence. 
 10. Filter data from a list based on a condition. 
+
+
+
+### Day 4 — Functions and Code Organization - Completed - 11/27/2026 (day_04.py)
+#### Learned -
+1. random module
+2. os module
+3. datetime module
+4. json module
+5. functions
+
+#### Implemented - 
+1. Create a function to calculate the sum of two numbers. 
+2. Create a function to check whether a number is even or odd. 
+3. Create a function to calculate grades. 
+4. Create a function to find the largest number in a list. 
+5. Create a function to generate a unique ticket ID. 
+6. Create a function to return the current date and time. 
+7. Create a calculator using separate functions for each operation. 
+8. Create a function to search for a user by ID. 
